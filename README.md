@@ -13,4 +13,20 @@ Web Development
 ---------------
 Ever since I started to learn how to code at Makers Academy I haven't stopped having fun. Since I didn't come from any previous technology experience I was very eager to learn how to build applications and I have to say that it is now become my biggest passion.
 
-I love building applications in order to solve problems. More importantly, I enjoy working as part of a team on one problem so that we can break it down into several problems and solve each one individually i.e. doing the agile approach.
+I love building applications in order to solve problems. More importantly, I enjoy working as part of a team on one problem so that we can break it down into several problems and solve each one individually i.e. doing the Agile approach.
+
+Skills Developed
+----------------
+* Ruby
+* Ruby on Rails
+* JavaScript
+* Angular JS
+* Node JS
+* Swift
+* HTML & CSS
+
+Testing
+* RSpec
+* Capybara
+* Jasmine
+* XCTest
