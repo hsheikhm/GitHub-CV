@@ -2,15 +2,15 @@
 
 [**Code Examples**](#code-examples) | [**Skills**](#technical-skills-and-technologies) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Interests**](#interests) | [**Blog**](https://hsheikhm.wordpress.com/)
 
-Currently seeking a Junior Web Developer role in London.
+Currently seeking a Junior Web Developer role.
 
-Recently changed careers to focus all my energy and time in learning to code at [Makers Academy](http://www.makersacademy.com/). Having just graduated I feel that I have learnt more in these last 4 months then I did in my whole time at university and during my career. Thanks to Makers Academy, I now have a huge passion for software programming and design and working part of a team in an agile manner.
+Recently changed careers to focus all my energy and time in learning to code at [Makers Academy](http://www.makersacademy.com/). Having just graduated I feel that I have learnt more in these last 4 months than I did in my whole time at university and during my career. Thanks to Makers Academy, I now have a huge passion for not only software programming and design but also for working within a team in an agile manner.
 
 You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I have enjoyed learning how to code.
 
 ## Code Examples
 
-#### [**1) 'Changr' iOS App & Beacons**](https://github.com/hsheikhm/changr)
+#### [**1) 'Changr' iOS App & Beacons - Swift**](https://github.com/hsheikhm/changr)
 
   * ***Description:***
   iOS app built in just 2 weeks. It allows people to donate to the homeless using beacons.
@@ -91,7 +91,7 @@ A Levels: French, German and Economics
 <br/>Coordinated CRM programmes across Europe and supported in redesign of Mazda webpage.
 
 **Accountant Assistant** | Bestway Cash & Carry Ltd | July 2009 – January 2010 | London
-<br/>Cross departmental experience in UK’s second largest independent wholesale cash & carry operator
+<br/>Cross departmental experience in UK’s second largest independent wholesale cash & carry operator.
 
 ## Interests
 
