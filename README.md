@@ -1,6 +1,12 @@
 Hamza Sheikh
 ============
-I'm currently seeking a Junior Web Developer role in London. I have enjoyed spending the past several months at [Makers Academy](http://www.makersacademy.com/) building applications with many different technologies. Read my code on [GitHub](https://github.com/hsheikhm).
+Currently seeking a Junior Web Developer role in London.
+
+Recently changed careers to focus all my energy and time in learning to code at [Makers Academy](http://www.makersacademy.com/). Having just graduated I feel that I have learnt more in these last 4 months then I did in my whole time at university and during my career. Thanks to Makers, I now have a huge passion for software programming and design and working part of a team in an agile manner.
+
+You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I have enjoyed learning how to code.
+
+Read my code on [GitHub](https://github.com/hsheikhm)
 
 Code Examples
 -------------
