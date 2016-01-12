@@ -17,8 +17,7 @@ Code Examples
   * ***Successes:***
   Built an iOS app with no previous experience and learnt a new language, Swift in just 2 weeks. We customised the behaviour of beacons. Learnt how to build and style an app in Xcode.
 
-
-  [*View App Screenshots*](https://hsheikhm.wordpress.com/2016/01/10/final-project-complete-changr/)
+[*View App Screenshots*](https://hsheikhm.wordpress.com/2016/01/10/final-project-complete-changr/)
 
 --------------------------------------------------------------------------------
 
