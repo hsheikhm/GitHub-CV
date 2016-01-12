@@ -19,7 +19,7 @@ Technical Skills and Technologies
 ----------------
 
 |                    | Strong                                                            | Know                       |
-| ------------------ | ----------------------------------------------------------------- | -------------------------- |
+| ------------------ | :----------------------------------------------------------------- | :-------------------------- |
 | **Languages**      | Ruby, Javascript, HTML, CSS                                       | jQuery, Swift              |
 | **Databases/ORMS** | PostGresQL, DataMapper, Firebase                                  | MongoDB                    |
 | **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap                     | Node JS                    |
