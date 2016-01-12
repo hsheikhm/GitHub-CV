@@ -73,3 +73,16 @@ BA European Studies (German) - 2.1
 --------------------------------------------------------------------------------
 #### Wellington College *(2004 - 2009)*
 A Levels: French, German and Economics
+
+## Work Experience
+
+**Sales, Marketing & Programmes Coordinator** | BUNAC | November 2013 - July 2015 | London
+dsd dsadod dsd d
+
+**Sports Coaching Volunteer** | United Through Sport | September 2013 – November 2013 | South Africa
+
+**Web Marketing Intern** | The Camouflage Company | June 2013 – September 2013 | London
+
+**Service Marketing Intern** | Mazda Motor Europe | August 2011 – April 2012 | Germany
+
+**Accountant Assistant** | Bestway Cash & Carry Ltd | July 2009 – January 2010 | London
