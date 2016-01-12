@@ -95,4 +95,4 @@ A Levels: French, German and Economics
 
 ## Interests
 
-Squash, Music, Codewars
+Squash, Music, Codewars.
