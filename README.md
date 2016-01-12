@@ -1,4 +1,6 @@
-# [Hamza Sheikh](https://github.com/hsheikhm)
+# <center> [Hamza Sheikh](https://github.com/hsheikhm) <center>
+
+<center> [**Code Examples**](#Code-Examples) | [**Skills**](#Technical-Skills-and-Technologies) | [**Education**](#Education) | [**Work Experience**](#Work-Experience) | [**Interests**](#Interests) <center>
 
 Currently seeking a Junior Web Developer role in London.
 
@@ -86,3 +88,7 @@ dsd dsadod dsd d
 **Service Marketing Intern** | Mazda Motor Europe | August 2011 – April 2012 | Germany
 
 **Accountant Assistant** | Bestway Cash & Carry Ltd | July 2009 – January 2010 | London
+
+## Interests
+
+Squash, Music, Codewars
