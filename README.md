@@ -1,6 +1,6 @@
 # [Hamza Sheikh](https://github.com/hsheikhm)
 
-[**Code Examples**](#code-examples) | [**Skills**](#technical-skills-and-technologies) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Interests**](#interests)
+[**Code Examples**](#code-examples) | [**Skills**](#technical-skills-and-technologies) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Interests**](#interests) | [**Blog**](https://hsheikhm.wordpress.com/)
 
 Currently seeking a Junior Web Developer role in London.
 
@@ -79,6 +79,7 @@ A Levels: French, German and Economics
 ## Work Experience
 
 **Sales, Marketing & Programmes Coordinator** | BUNAC | November 2013 - July 2015 | London
+
 dsd dsadod dsd d
 
 **Sports Coaching Volunteer** | United Through Sport | September 2013 – November 2013 | South Africa
