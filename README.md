@@ -79,15 +79,19 @@ A Levels: French, German and Economics
 ## Work Experience
 
 **Sales, Marketing & Programmes Coordinator** | BUNAC | November 2013 - July 2015 | London
-<br/>dsd dsadod dsd d
+<br/>Increased programme participation by 30% and brought forward 10 new clients.
 
 **Sports Coaching Volunteer** | United Through Sport | September 2013 – November 2013 | South Africa
+<br/>Coached hockey in 15 different schools each week with upto 40 students in any group.
 
 **Web Marketing Intern** | The Camouflage Company | June 2013 – September 2013 | London
+<br/>Built experience in Social Media marketing, Google Analytics & AdWords.
 
 **Service Marketing Intern** | Mazda Motor Europe | August 2011 – April 2012 | Germany
+<br/>Coordinated CRM programmes across Europe and supported in redesign of Mazda webpage.
 
 **Accountant Assistant** | Bestway Cash & Carry Ltd | July 2009 – January 2010 | London
+<br/>Cross departmental experience in UK’s second largest independent wholesale cash & carry operator
 
 ## Interests
 
