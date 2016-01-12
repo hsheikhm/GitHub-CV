@@ -1,6 +1,6 @@
 # <center> [Hamza Sheikh](https://github.com/hsheikhm) <center>
 
-[**Code Examples**](#Code-Examples) | [**Skills**](#Technical-Skills-and-Technologies) | [**Education**](#Education) | [**Work Experience**](#Work-Experience) | [**Interests**](#Interests)
+[**Code Examples**](#code-examples) | [**Skills**](#Technical-Skills-and-Technologies) | [**Education**](#Education) | [**Work Experience**](#Work-Experience) | [**Interests**](#Interests)
 
 Currently seeking a Junior Web Developer role in London.
 
