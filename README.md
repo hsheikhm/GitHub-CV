@@ -79,8 +79,7 @@ A Levels: French, German and Economics
 ## Work Experience
 
 **Sales, Marketing & Programmes Coordinator** | BUNAC | November 2013 - July 2015 | London
-
-dsd dsadod dsd d
+<br/>dsd dsadod dsd d
 
 **Sports Coaching Volunteer** | United Through Sport | September 2013 – November 2013 | South Africa
 
