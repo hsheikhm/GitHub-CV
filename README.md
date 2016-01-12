@@ -18,10 +18,10 @@ Code Examples
 Technical Skills and Technologies
 ----------------
 
-|                | Strong                                                            | Know                       |
-| -------------- | ----------------------------------------------------------------- | -------------------------- |
-| Languages      | Ruby, Javascript, HTML, CSS                                       | jQuery, Swift              |
-| Databases/ORMS | PostGresQL, DataMapper, Firebase                                  | MongoDB                    |
-| Frameworks     | Sinatra, Ruby on Rails, Angular JS, Bootstrap                     | Node JS                    |
-| Testing        | RSpec, Jasmine, Capybara                                          | Karma, Protractor, XCTest  |
-| Other          | Version control through GitHub, Agile processes, Refactoring code | Heroku deployment          |
+|                    | Strong                                                            | Know                       |
+| ------------------ | ----------------------------------------------------------------- | -------------------------- |
+| **Languages**      | Ruby, Javascript, HTML, CSS                                       | jQuery, Swift              |
+| **Databases/ORMS** | PostGresQL, DataMapper, Firebase                                  | MongoDB                    |
+| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap                     | Node JS                    |
+| **Testing**        | RSpec, Jasmine, Capybara                                          | Karma, Protractor, XCTest  |
+| **Other**          | Version control through GitHub, Agile processes, Refactoring code | Heroku deployment          |
