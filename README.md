@@ -1,14 +1,14 @@
-[Hamza Sheikh](https://github.com/hsheikhm)
-============
+# [Hamza Sheikh](https://github.com/hsheikhm)
+
 Currently seeking a Junior Web Developer role in London.
 
 Recently changed careers to focus all my energy and time in learning to code at [Makers Academy](http://www.makersacademy.com/). Having just graduated I feel that I have learnt more in these last 4 months then I did in my whole time at university and during my career. Thanks to Makers Academy, I now have a huge passion for software programming and design and working part of a team in an agile manner.
 
 You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I have enjoyed learning how to code.
 
-Code Examples
--------------
-[**1) 'Changr' iOS App & Beacons**](https://github.com/hsheikhm/changr)
+## Code Examples
+
+#### [**1) 'Changr' iOS App & Beacons**](https://github.com/hsheikhm/changr)
 
   * ***Description:***
   iOS app built in just 2 weeks. It allows people to donate to the homeless using beacons.
@@ -21,7 +21,7 @@ Code Examples
 
 --------------------------------------------------------------------------------
 
-[**2) Daily Review App  - Angular JS**](https://github.com/hsheikhm/daily_review_app)
+#### [**2) Daily Review App  - Angular JS**](https://github.com/hsheikhm/daily_review_app)
 
   * ***Description:***
   Students at Makers Academy fill in a daily feedback form in order to submit their feelings to coaches.
@@ -34,7 +34,7 @@ Code Examples
 
 --------------------------------------------------------------------------------
 
-[**3) Chitter Web App - Ruby**](https://github.com/hsheikhm/chitter-challenge)
+#### [**3) Chitter Web App - Ruby**](https://github.com/hsheikhm/chitter-challenge)
 
 * ***Description:***
 Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
@@ -45,9 +45,7 @@ The app is completely tested with RSpec in terms of feature and unit tests. It i
 
 <!-- Insert link to website when ready -->
 
-
-Technical Skills and Technologies
----------------------------------
+## Technical Skills and Technologies
 
 |                    | Strong                                                     | Know                       |
 | ------------------ | :--------------------------------------------------------- | :------------------------- |
@@ -56,3 +54,22 @@ Technical Skills and Technologies
 | **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap              | Node JS                    |
 | **Testing**        | RSpec, Jasmine, Capybara                                   | Karma, Protractor, XCTest  |
 | **Other**          | GitHub version control, Agile processes, Refactoring code  | Heroku deployment          |
+
+## Education
+
+#### Makers Academy *(October 2015 - January 2016)*
+
+A highly selective 12 week intensive coding bootcamp.
+
+Gained experience in:
+* Pair programming, TDD/BDD, Agile practices
+* OOP, software design, full stack web development
+* Git version control, working in a team
+
+--------------------------------------------------------------------------------
+#### Royal Holloway, University of London *(2009 - 2014)*
+BA European Studies (German) - 2.1
+
+--------------------------------------------------------------------------------
+#### Wellington College *(2004 - 2009)*
+A Levels: French, German and Economics
