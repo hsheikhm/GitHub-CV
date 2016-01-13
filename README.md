@@ -38,14 +38,14 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
 
 #### [**3) Chitter Web App - Ruby**](https://github.com/hsheikhm/chitter-challenge)
 
-* ***Description:***
-Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
-* ***Technologies:***
-Built in Ruby, HTML, CSS and Bootstrap. All users and messages are stored via DataMapper.
-* ***Successes:***
-The app is completely tested with RSpec in terms of feature and unit tests. It is built within a Sinatra framework and has a stylish front-end.
+  * ***Description:***
+  Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
+  * ***Technologies:***
+  Built in Ruby, HTML, CSS and Bootstrap. All users and messages are stored via DataMapper.
+  * ***Successes:***
+  The app is completely tested with RSpec in terms of feature and unit tests. It is built within a Sinatra framework and has a stylish front-end.
 
-<!-- Insert link to website when ready -->
+[*View Website*](http://welcome-to-chitter.herokuapp.com/signup)
 
 ## Technical Skills and Technologies
 
