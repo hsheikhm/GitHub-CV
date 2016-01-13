@@ -45,7 +45,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Successes:***
   The app is completely tested with RSpec in terms of feature and unit tests. It is built within a Sinatra framework and has a stylish front-end.
 
-[*View Website*](http://welcome-to-chitter.herokuapp.com/signup)
+[*View Website*](http://welcome-to-chitter.herokuapp.com/signup) | [*View Styling*](https://hsheikhm.wordpress.com/2015/11/11/week-8-building-databases/)
 
 ## Technical Skills and Technologies
 
