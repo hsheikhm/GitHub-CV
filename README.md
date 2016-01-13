@@ -19,7 +19,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Successes:***
   Built an iOS app with no previous experience and learnt a new language, Swift in just 2 weeks. We customised the behaviour of beacons. Learnt how to build and style an app in Xcode.
 
-[*View App Screenshots*](https://hsheikhm.wordpress.com/2016/01/10/final-project-complete-changr/), [*View Video Demo*](https://youtu.be/AyVZJ511cqI?t=96)
+[*View App Screenshots*](https://hsheikhm.wordpress.com/2016/01/10/final-project-complete-changr/) | [*View Video Demo*](https://youtu.be/AyVZJ511cqI?t=96)
 
 --------------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Successes:***
   The app is the first project from students to be taken forward by the Academy. It was only built in 3 days. We created our very own Slackbot in just 1 day. It clearly demonstrates the benefits of using Angular JS.
 
-[*View Website*](https://shining-fire-9962.firebaseapp.com/#/), [*View Styling*](https://hsheikhm.wordpress.com/2015/12/12/week-13-shef-devs/)
+[*View Website*](https://shining-fire-9962.firebaseapp.com/#/) | [*View Styling*](https://hsheikhm.wordpress.com/2015/12/12/week-13-shef-devs/)
 
 --------------------------------------------------------------------------------
 
