@@ -79,7 +79,7 @@ A Levels: French, German and Economics
 ## Work Experience
 
 **Sales, Marketing & Programmes Coordinator** | BUNAC | November 2013 - July 2015 | London
-<br/>Increased programme participation by 30% and brought forward 10 new clients.
+<br/>Increased customers by 30% and brought on 10 new clients. Awarded 'Employee of the Month' out of 500+ employees.
 
 **Sports Coaching Volunteer** | United Through Sport | September 2013 – November 2013 | South Africa
 <br/>Coached hockey in 15 different schools each week with upto 40 students in any group.
