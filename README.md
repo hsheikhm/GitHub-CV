@@ -78,7 +78,7 @@ A Levels: French, German and Economics
 
 ## Work Experience
 
-**Sales, Marketing & Programmes Coordinator** | BUNAC | November 2013 - July 2015 | London
+**Sales, Marketing & Programmes Coordinator** | BUNAC (STA Travel) | November 2013 - July 2015 | London
 <br/>Increased customers by 30% and brought on 10 new clients. Awarded 'Employee of the Month' out of 500+ employees.
 
 **Sports Coaching Volunteer** | United Through Sport | September 2013 – November 2013 | South Africa
