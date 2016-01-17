@@ -10,7 +10,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
 
 ## Code Examples
 
-#### [**1) 'Changr' iOS App & Beacons - Swift**](https://github.com/hsheikhm/changr)
+#### [**1) 'Changr' iOS App & Beacons - Swift**](http://hsheikhm.github.io/changr)
 
   * ***Description:***
   iOS app built in just 2 weeks. It allows people to donate to the homeless using beacons.
@@ -23,7 +23,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
 
 --------------------------------------------------------------------------------
 
-#### [**2) Daily Review App  - Angular JS**](https://github.com/hsheikhm/daily_review_app)
+#### [**2) Daily Review App  - Angular JS**](http://hsheikhm.github.io/daily_review_app)
 
   * ***Description:***
   Students at Makers Academy fill in a daily feedback form in order to submit their feelings to coaches.
