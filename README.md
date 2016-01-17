@@ -30,7 +30,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Technologies:***
   Website is built in Angular JS and styled beautifully with HTML, CSS and Bootstrap. It is also connected to a Firebase database to keep data real-time.
   * ***Successes:***
-  The app is the first project from students to be taken forward by the Academy. It was only built in 3 days. We created our very own Slackbot in just 1 day. It clearly demonstrates the benefits of using Angular JS.
+  The app is the first project from students to be taken forward by the Academy. It was only built in 3 days. We created our very own [Slackbot](https://github.com/hsheikhm/daily-review-slackbot) in just 1 day. It clearly demonstrates the benefits of using Angular JS.
 
 [*View Website*](https://shining-fire-9962.firebaseapp.com/#/) | [*View Styling*](https://hsheikhm.wordpress.com/2015/12/12/week-13-shef-devs/)
 
