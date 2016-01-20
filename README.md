@@ -41,7 +41,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
 * ***Description:***
 A takeaway restaurant built in Ruby to demonstrate the SOLID principles and TDD.
 * ***Technologies:***
-The app is built in Ruby and is fully tested using RSpec. The text messaging function is achieved by the Twilio API which had also been [stubbed](https://github.com/hsheikhm/takeaway-challenge/blob/master/spec/textmessenger_spec.rb) for testing.
+The app is built in Ruby and is fully tested using RSpec. The text messaging function is achieved by the Twilio API, which had also been [stubbed](https://github.com/hsheikhm/takeaway-challenge/blob/master/spec/textmessenger_spec.rb) for testing.
 * ***Successes:***
 The app best demonstrates the use of 'doubles' within testing. It is fully test driven. It clearly shows off the use of principles such as Single Responsibility and Dependency Injection.
 
