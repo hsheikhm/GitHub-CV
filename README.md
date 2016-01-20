@@ -17,13 +17,13 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Technologies:***
   Built in Swift, the app is used with Estimote beacons so that a donor can receive a custom notification on their phone when they walk past a homeless person. It is further connected to a Firebase database.
   * ***Successes:***
-  Built an iOS app with no previous experience and learnt a new language, Swift in just 2 weeks. We customised the behaviour of beacons. Learnt how to build and style an app in Xcode.
+  Built an iOS app with no previous experience and learnt Swift in just 2 weeks. We customised the behaviour of beacons. Learnt how to build/style an app in Xcode. Managed to [mock Firebase](https://github.com/hsheikhm/changr/blob/master/changr/MockFirebase.swift).
 
 [*View App Screenshots*](https://hsheikhm.wordpress.com/2016/01/10/final-project-complete-changr/) | [*View Video Demo*](https://youtu.be/AyVZJ511cqI?t=96)
 
 --------------------------------------------------------------------------------
 
-#### [**2) Daily Review App  - Angular JS**](http://hsheikhm.github.io/daily_review_app)
+#### [**2) Daily Review App - Angular JS**](http://hsheikhm.github.io/daily_review_app)
 
   * ***Description:***
   Students at Makers Academy fill in a daily feedback form in order to submit their feelings to coaches.
@@ -36,7 +36,20 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
 
 --------------------------------------------------------------------------------
 
-#### [**3) Chitter Web App - Ruby**](http://hsheikhm.github.io/chitter-challenge/)
+#### [**3) Takeaway App - Ruby (SOLID)**](http://hsheikhm.github.io/takeaway-challenge)
+
+* ***Description:***
+A takeaway restaurant built in Ruby to demonstrate the SOLID principles and TDD.
+* ***Technologies:***
+The app is built in Ruby and is fully tested using RSpec. The text messaging function is achieved by the Twilio API which had also been [stubbed](https://github.com/hsheikhm/takeaway-challenge/blob/master/spec/textmessenger_spec.rb) for testing.
+* ***Successes:***
+The app best demonstrates the use of 'doubles' within testing. It is fully test driven. It clearly shows off the use of principles such as Single Responsibility and Dependency Injection.
+
+[*View SOLID in action*](https://github.com/hsheikhm/takeaway-challenge/tree/master/lib) | [*View App Features*](https://github.com/hsheikhm/takeaway-challenge#feature-test-sample)
+
+--------------------------------------------------------------------------------
+
+#### [**4) Chitter Web App - Ruby**](http://hsheikhm.github.io/chitter-challenge/)
 
   * ***Description:***
   Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
