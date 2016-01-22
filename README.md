@@ -49,7 +49,20 @@ The app best demonstrates the use of 'doubles' within testing. It is fully test 
 
 --------------------------------------------------------------------------------
 
-#### [**4) Chitter Web App - Ruby**](http://hsheikhm.github.io/chitter-challenge/)
+#### [**4) Instagram Clone App - Rails**](http://hsheikhm.github.io/instagram_clone)
+
+  * ***Description:***
+  Built a clone of Instagram from scratch using Ruby on Rails.
+  * ***Technologies:***
+  The app is built in Ruby on Rails with a PostGresQL database. It is fully tested using RSpec and Capybara. When the app is deployed to Heroku, the images are stored via Amazon's AWS/S3 service.
+  * ***Successes:***
+  The app was built in a completely agile manner and I practiced heavily on git flow. To make it look exactly like the Instagram website I did all the styling from complete scratch which boosted my front-end skills.
+
+[*View Website*](https://clone-of-instagram.herokuapp.com/users/sign_in) | [*View Styling*](https://github.com/hsheikhm/instagram_clone#app-usage-and-features)
+
+--------------------------------------------------------------------------------
+
+#### [**5) Chitter Web App - Ruby**](http://hsheikhm.github.io/chitter-challenge/)
 
   * ***Description:***
   Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
