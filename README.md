@@ -1,6 +1,6 @@
 # [Hamza Sheikh](https://github.com/hsheikhm)
 
-[**Code Examples**](#code-examples) | [**Skills**](#technical-skills-and-technologies) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Interests**](#interests) | [**Blog**](https://hsheikhm.wordpress.com/)
+[**Code Examples**](#code-examples) | [**Skills**](#technical-skills-and-technologies) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Interests**](#interests) | [**Blog**](https://hsheikhm.wordpress.com/) | [**Twitter**](https://twitter.com/HSheikhM)
 
 Currently seeking a Junior Web Developer role.
 
