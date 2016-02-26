@@ -36,16 +36,16 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
 
 --------------------------------------------------------------------------------
 
-#### [**3) Takeaway App - Ruby (SOLID)**](http://hsheikhm.github.io/takeaway-challenge)
+#### [**3) Chitter Web App - Ruby**](http://hsheikhm.github.io/chitter-challenge/)
 
-* ***Description:***
-A takeaway restaurant built in Ruby to demonstrate the SOLID principles and TDD.
-* ***Technologies:***
-The app is built in Ruby and is fully tested using RSpec. The text messaging function is achieved by the Twilio API, which had also been [stubbed](https://github.com/hsheikhm/takeaway-challenge/blob/master/spec/textmessenger_spec.rb) for testing.
-* ***Successes:***
-The app best demonstrates the use of 'doubles' within testing. It is fully test driven. It clearly shows off the use of principles such as Single Responsibility and Dependency Injection.
+  * ***Description:***
+  Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
+  * ***Technologies:***
+  Built in Ruby, HTML, CSS, Bootstrap and jQuery. All users and messages are stored via DataMapper.
+  * ***Successes:***
+  The app is completely tested with RSpec in terms of feature and unit tests. It is built within a Sinatra framework and has a stylish front-end. The UI is also enhanced by jQuery.
 
-[*View SOLID in action*](https://github.com/hsheikhm/takeaway-challenge/tree/master/lib) | [*View App Features*](https://github.com/hsheikhm/takeaway-challenge#feature-test-sample)
+[*View Website*](http://welcome-to-chitter.herokuapp.com/signup) | [*View Styling*](https://hsheikhm.wordpress.com/2015/11/11/week-8-building-databases/)
 
 --------------------------------------------------------------------------------
 
@@ -62,25 +62,25 @@ The app best demonstrates the use of 'doubles' within testing. It is fully test 
 
 --------------------------------------------------------------------------------
 
-#### [**5) Chitter Web App - Ruby**](http://hsheikhm.github.io/chitter-challenge/)
+#### [**5) Takeaway App - Ruby (SOLID)**](http://hsheikhm.github.io/takeaway-challenge)
 
-  * ***Description:***
-  Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
-  * ***Technologies:***
-  Built in Ruby, HTML, CSS and Bootstrap. All users and messages are stored via DataMapper.
-  * ***Successes:***
-  The app is completely tested with RSpec in terms of feature and unit tests. It is built within a Sinatra framework and has a stylish front-end.
+* ***Description:***
+A takeaway restaurant built in Ruby to demonstrate the SOLID principles and TDD.
+* ***Technologies:***
+The app is built in Ruby and is fully tested using RSpec. The text messaging function is achieved by the Twilio API, which had also been [stubbed](https://github.com/hsheikhm/takeaway-challenge/blob/master/spec/textmessenger_spec.rb) for testing.
+* ***Successes:***
+The app best demonstrates the use of 'doubles' within testing. It is fully test driven. It clearly shows off the use of principles such as Single Responsibility and Dependency Injection.
 
-[*View Website*](http://welcome-to-chitter.herokuapp.com/signup) | [*View Styling*](https://hsheikhm.wordpress.com/2015/11/11/week-8-building-databases/)
+[*View SOLID in action*](https://github.com/hsheikhm/takeaway-challenge/tree/master/lib) | [*View App Features*](https://github.com/hsheikhm/takeaway-challenge#feature-test-sample)
 
 ## Technical Skills and Technologies
 
 |                    | Strong                                                     | Know                       |
 | ------------------ | :--------------------------------------------------------- | :------------------------- |
-| **Languages**      | Ruby, Javascript, HTML, CSS                                | jQuery, Swift              |
+| **Languages**      | Ruby, JavaScript, HTML, CSS, jQuery                        | Swift                      |
 | **Databases/ORMS** | PostGresQL, DataMapper, Firebase                           | MongoDB                    |
-| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap              | Node JS                    |
-| **Testing**        | RSpec, Jasmine, Capybara                                   | Karma, Protractor, XCTest  |
+| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap              | Node JS, React JS, Sass    |
+| **Testing**        | RSpec, Jasmine, Capybara, Protractor                       | Karma, XCTest              |
 | **Other**          | GitHub version control, Agile processes, Refactoring code  | Heroku deployment          |
 
 ## Education
@@ -121,4 +121,4 @@ A Levels: French, German and Economics
 
 ## Interests
 
-Squash, Music, Codewars.
+Blogging, Squash, Music, Codewars.
