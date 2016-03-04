@@ -54,7 +54,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Description:***
   Built a clone of Instagram from scratch using Ruby on Rails.
   * ***Technologies:***
-  The app is built in Ruby on Rails with a PostGresQL database. It is fully tested using RSpec and Capybara. When the app is deployed to Heroku, the images are stored via Amazon's AWS/S3 service.
+  The app is built in Ruby on Rails with a PostGresQL database. It is tested using RSpec & Capybara. Images are stored via Amazon's AWS/S3 service. UI is styled in HTML, CSS, Sass and Bootstrap.
   * ***Successes:***
   The app was built in a completely agile manner and I practiced heavily on git flow. To make it look exactly like the Instagram website I did all the styling from complete scratch which boosted my front-end skills.
 
@@ -77,9 +77,9 @@ The app best demonstrates the use of 'doubles' within testing. It is fully test 
 
 |                    | Strong                                                     | Know                       |
 | ------------------ | :--------------------------------------------------------- | :------------------------- |
-| **Languages**      | Ruby, JavaScript, HTML, CSS, jQuery                        | Swift                      |
+| **Languages**      | Ruby, JavaScript, HTML, CSS, Sass, jQuery                  | Swift                      |
 | **Databases/ORMS** | PostGresQL, DataMapper, Firebase                           | MongoDB                    |
-| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap              | Node JS, React JS, Sass    |
+| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap              | Node JS, React JS          |
 | **Testing**        | RSpec, Jasmine, Capybara, Protractor                       | Karma, XCTest              |
 | **Other**          | GitHub version control, Agile processes, Refactoring code  | Heroku deployment          |
 
