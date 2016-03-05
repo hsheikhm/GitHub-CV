@@ -41,7 +41,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Description:***
   Built a clone of Twitter over a weekend. Users can sign up, post a message and view all messages.
   * ***Technologies:***
-  Built in Ruby, HTML, CSS, Bootstrap and jQuery. All users and messages are stored via DataMapper.
+  Built in Ruby, HTML, CSS, Sass, Bootstrap and jQuery. All users and messages are stored via DataMapper.
   * ***Successes:***
   The app is completely tested with RSpec in terms of feature and unit tests. It is built within a Sinatra framework and has a stylish front-end. The UI is also enhanced by jQuery.
 
