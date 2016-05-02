@@ -75,13 +75,13 @@ The app best demonstrates the use of 'doubles' within testing. It is fully test 
 
 ## Technical Skills and Technologies
 
-|                    | Strong                                                     | Know                       |
-| ------------------ | :--------------------------------------------------------- | :------------------------- |
-| **Languages**      | Ruby, JavaScript, HTML, CSS, Sass, jQuery                  | Swift                      |
-| **Databases/ORMS** | PostGresQL, DataMapper, Firebase                           | MongoDB                    |
-| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap              | Node JS, React JS          |
-| **Testing**        | RSpec, Jasmine, Capybara, Protractor                       | Karma, XCTest              |
-| **Other**          | GitHub version control, Agile processes, Refactoring code  | Heroku deployment          |
+|                    | Strong                                                                       | Know                       |
+| ------------------ | :--------------------------------------------------------------------------- | :------------------------- |
+| **Languages**      | Ruby, JavaScript, HTML, CSS, Sass, jQuery                                    | Swift                      |
+| **Databases/ORMS** | PostGresQL, DataMapper, Firebase                                             | MongoDB                    |
+| **Frameworks**     | Sinatra, Ruby on Rails, Angular JS, Bootstrap                                | Node JS, React JS          |
+| **Testing**        | RSpec, Jasmine, Capybara, Protractor                                         | Karma, XCTest              |
+| **Other**          | GitHub version control, Grunt Automation, Agile processes, Refactoring code  | Heroku deployment          |
 
 ## Education
 
