@@ -28,7 +28,7 @@ You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I h
   * ***Description:***
   Students at Makers Academy fill in a daily feedback form in order to submit their feelings to coaches.
   * ***Technologies:***
-  Website is built in Angular JS and styled beautifully with HTML, CSS and Bootstrap. It is also connected to a Firebase database to keep data real-time.
+  Website is built in Angular JS and styled with HTML, CSS and Bootstrap. It is connected to a Firebase database to keep data real-time. Automation tools are built using [Grunt](https://github.com/hsheikhm/daily_review_app/blob/master/gruntfile.js).
   * ***Successes:***
   The app is the first project from students to be taken forward by the Academy. It was only built in 3 days. We created our very own [Slackbot](https://github.com/hsheikhm/daily-review-slackbot) in just 1 day. It clearly demonstrates the benefits of using Angular JS.
 
