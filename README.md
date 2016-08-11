@@ -104,7 +104,7 @@ A Levels: French, German and Economics
 
 ## Work Experience
 
-#### *Programming*
+#### *Programming:*
 
 **UI Designer** | RentalHunt | March 2016 - present | London
 * Designed user interface of a tech startup's website using Angular, HTML5, CSS3, Sass, Bootstrap, JQuery & Grunt.
@@ -112,7 +112,7 @@ A Levels: French, German and Economics
 * [RentalHunt Development Website](http://shielded-garden-47901.herokuapp.com/) containing mock data.
 
 --------------------------------------------------------------------------------
-#### *Other*
+#### *Other:*
 
 **Sales, Marketing & Programmes Coordinator** | BUNAC (STA Travel) | November 2013 - July 2015 | London
 <br/>Increased customers by 30% and brought on 10 new clients. Awarded 'Employee of the Month' out of 500+ employees.
