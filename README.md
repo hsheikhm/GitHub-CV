@@ -107,8 +107,8 @@ A Levels: French, German and Economics
 #### *Programming*
 
 **UI Designer** | RentalHunt | March 2016 - present | London
-* Designed whole user interface of a tech startup's website using Angular, HTML5, CSS3, Sass, Bootstrap, JQuery & Grunt.
-* [RentalHunt Live Website](www.rentalhunt.co.uk).
+* Designed user interface of a tech startup's website using Angular, HTML5, CSS3, Sass, Bootstrap, JQuery & Grunt.
+* [RentalHunt Live Website](http://rentalhunt.co.uk).
 * [RentalHunt Development Website](http://shielded-garden-47901.herokuapp.com/) containing mock data.
 
 --------------------------------------------------------------------------------
