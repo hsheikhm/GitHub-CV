@@ -4,7 +4,7 @@
 
 Currently seeking a Web Developer role with a focus on front-end/UI.
 
-Whilst I was learning to code at [Makers Academy](http://www.makersacademy.com/) I had built a huge passion for responsive web-design and UI. After completing the course I was hungry to build some kind of UI and so I became a UI Designer at a tech-startup. I now feel that I have learnt more in this last year than I did in my whole time at university and during my previous career! The reason I have become fond of front-end design is because I love walking through a user's journey on a website and discovering all possible scenarios they could face. I then love putting that user's journey into design and seeing it developed in an agile manner. I am now looking to expand my knowledge and be involved in front-end design on a much larger scale.
+Whilst I was learning to code at [Makers Academy](http://www.makersacademy.com/) I had built a huge passion for responsive web-design and UI. After completing the course I was hungry to build some kind of UI and so I became a UI Designer at a tech start-up. I now feel that I have learnt more in this last year than I did in my whole time at university and during my previous career! The reason I have become fond of front-end design is because I love walking through a user's journey on a website and discovering all possible scenarios they could face. I then love putting that user's journey into design and seeing it developed in an agile manner. I am now looking to expand my knowledge and be involved in front-end design on a much larger scale.
 
 You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I have enjoyed learning how to code.
 
