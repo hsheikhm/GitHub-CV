@@ -95,7 +95,7 @@ Gained experience in:
 * Git version control, working in a team.
 
 --------------------------------------------------------------------------------
-#### Royal Holloway, University of London *(2009 - 2014)*
+#### Royal Holloway, University of London *(2009 - 2013)*
 BA European Studies (German) - 2.1
 
 --------------------------------------------------------------------------------
