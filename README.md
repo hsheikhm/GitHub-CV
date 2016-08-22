@@ -2,9 +2,9 @@
 
 [**Code Examples**](#code-examples) | [**Skills**](#technical-skills-and-technologies) | [**Education**](#education) | [**Work Experience**](#work-experience) | [**Interests**](#interests) | [**Blog**](https://hsheikhm.wordpress.com/) | [**Twitter**](https://twitter.com/HSheikhM)
 
-Currently seeking a Junior Web Developer role.
+Currently seeking a Web Developer role with a focus on front-end/UI.
 
-Recently changed careers to focus all my energy and time in learning to code at [Makers Academy](http://www.makersacademy.com/). Having just graduated I feel that I have learnt more in these last 4 months than I did in my whole time at university and during my career. Thanks to Makers Academy, I now have a huge passion for not only software programming and design but also for working within a team in an agile manner.
+Whilst I was learning to code at [Makers Academy](http://www.makersacademy.com/) I had built a huge passion for responsive web-design and UI. After completing the course I was hungry to build some kind of UI and so I worked as a UI Designer at a tech-startup. I now feel that I have learnt more in this last year than I did in my whole time at university and during my previous career! The reason I have become fond of front-end design is because I love walking through a user's journey on a website and discovering all possible scenarios they could face. I then love putting that user's journey into design and seeing it developed in an agile manner.
 
 You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I have enjoyed learning how to code.
 
@@ -106,7 +106,7 @@ A Levels: French, German and Economics
 
 #### *Programming:*
 
-**UI Designer** | RentalHunt | March 2016 - present | London
+**UI Designer** | RentalHunt | February 2016 - present | London
 * Designed user interface of a tech startup's website using Angular, HTML5, CSS3, Sass, Bootstrap, JQuery & Grunt.
 * Incorporated responsive design so that the website is scalable on all devices.
 * [RentalHunt Live Website](http://rentalhunt.co.uk).
