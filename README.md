@@ -4,7 +4,7 @@
 
 Currently seeking an Agile Software Developer role.
 
-Whilst I was learning to code at [Makers Academy](http://www.makersacademy.com/) I had built a huge passion for agile software development and test-driven development. After completing the course I was hungry to apply my new knowledge and thus I worked at a start-up within an agile environment. Having acquired my first taste of software development in a real business I am now eager to establish myself on a much bigger scale.
+Whilst I was learning to code at [Makers Academy](http://www.makersacademy.com/) I had built a huge passion for agile software and test-driven development. After completing the course I was hungry to apply my new knowledge and thus I worked at a start-up within an agile environment. Having acquired my first taste of software development in a real business I am now eager to establish myself on a much bigger scale.
 
 You can read my [blog](https://hsheikhm.wordpress.com/) to see just how much I have enjoyed learning how to code.
 
